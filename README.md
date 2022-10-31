@@ -37,9 +37,9 @@ Further datasets and alogrithms are available in utils/: <br/>
 
 -split_num_letters.py converts all numbers in a sequence to their word equivalents. <br/>
 -demo_sample_randomizer.ipynb was used to sort the demo samples for the subjective evaluation. <br/>
--check_valid_entries complete.py returns the remainder of the dataset that remains in the selcted dictionary, whether afr_za_dict.txt or rcrl_apd.1.4.1.txt. <br/>
+-check_valid_entries complete.py returns the remainder of the dataset that remains in the selected dictionary, whether afr_za_dict.txt or rcrl_apd.1.4.1.txt. <br/>
 
-##Acknowledegments: <br />
+Acknowledegments: <br />
 -https://github.com/bshall/Tacotron <br />
 -https://github.com/bshall/UniversalVocoding <br />
 -Computations were performed using the University of Stellenbosch's HPC1 (Rhasatsha): http://www.sun.ac.za/hpc <br />
