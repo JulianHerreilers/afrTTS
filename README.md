@@ -1,9 +1,5 @@
 # afrTTS - Afrikaans PyTorch-based G2P and text-to-speech synthesis
-Please note that this is a direct continuation of the work performed in https://github.com/JulianHerreilers/afrTTS1. As I was finalising my report, I changed the name
-and as such lost the ability to push my final code.
-please refer to https://github.com/JulianHerreilers/afrTTS1 for the history of work/commits performed throughout the course of the semester. <br />
-
-With this formality addressed, welcome to afrTTS. We implement two systems: <br />
+Welcome to afrTTS! We implement two systems: <br />
 -NaiveTTS uses an existing limited pronunciation dictionary and suffers from misallignment.<br />
 -G2PxTTS uses a G2P conversion model to expand this dictionary to create more coherent audio.<br />
 
