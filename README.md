@@ -1,4 +1,5 @@
 # afrTTS - Afrikaans PyTorch-based G2P and text-to-speech synthesis
+
 Welcome to afrTTS! We implement two systems: <br />
 -NaiveTTS uses an existing limited pronunciation dictionary and suffers from misallignment.<br />
 -G2PxTTS uses a G2P conversion model to expand this dictionary to create more coherent audio.<br />
@@ -39,3 +40,5 @@ Acknowledegments: <br />
 -https://github.com/bshall/Tacotron <br />
 -https://github.com/bshall/UniversalVocoding <br />
 -Computations were performed using the University of Stellenbosch's HPC1 (Rhasatsha): http://www.sun.ac.za/hpc <br />
+
+Please not this was my first proper exposure to PyTorch and Deep Models (I would probably approach this very differently with the knowledge I now have (but hey, that's learning :)). I tried to document it as well as possible to explain my thought process but use at your own risk.)
